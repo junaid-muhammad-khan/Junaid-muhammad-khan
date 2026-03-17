@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Junaid Khan 👋
 ### Game Developer | IT Student @ KPU | Creative Problem Solver
 
